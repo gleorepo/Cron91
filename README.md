@@ -6,7 +6,7 @@ This is a Casio f91w "Total Conversion". It uses the module, back, gasket, and b
 
 - [F91W Watch](https://amzn.to/3yCgZ22). This can be found from $10-$20. This link might not be the cheapest listing. 
 - [28.5mm diameter, 1.5mm thick Watch Crystal](https://amzn.to/3JBo8WB). This link is to an 8-pack of these crystals.
-- [m1.4 or m1.7 self tapping screws](https://amzn.to/3mO5Mce). This link is for an assortment of screws.
+- [m1.4 or m1.7 self tapping screws](https://amzn.to/3mO5Mce). This link is for an assortment of screws. Machine screws will also work.
 - [GS Hypo Cement](https://amzn.to/3JBtjpH). This is optional but secures the crystal and waterproofs the watch a little more.
 - 20 mm watch strap of your choice. I like NATO style straps for the cron91. 
 
