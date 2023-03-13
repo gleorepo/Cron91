@@ -2,6 +2,8 @@
 
 This is a Casio f91w "Total Conversion". It uses the module, back, gasket, and buttons from a Casio f91w to create a wholly new watch. 
 
+![cron91w photo](cron91.jpg)
+
 ## Build List
 
 - [F91W Watch](https://amzn.to/3yCgZ22). This can be found from $10-$20. This link might not be the cheapest listing. 
