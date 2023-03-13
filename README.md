@@ -2,7 +2,8 @@
 
 This is a Casio f91w "Total Conversion". It uses the module, back, gasket, and buttons from a Casio f91w to create a wholly new watch. 
 
-![cron91w photo](cron91.jpg | width=200)
+<img src="cron91.jpg" width="150">
+
 
 ## Build List
 
